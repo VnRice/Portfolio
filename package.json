@@ -2,7 +2,8 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://VnRice.github.io/Portfolio",
+  //"homepage": "https://VnRice.github.io/Portfolio",
+  "homepage": "https://github.com/VnRice/Portfolio.git",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
