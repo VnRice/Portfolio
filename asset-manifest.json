@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.2db1b465.css",
+    "main.js": "/Portfolio/static/js/main.3cc8fa62.js",
+    "static/media/ricebowl.png": "/Portfolio/static/media/ricebowl.dd68b6dcb75b30806b5e.png",
+    "index.html": "/Portfolio/index.html",
+    "main.2db1b465.css.map": "/Portfolio/static/css/main.2db1b465.css.map",
+    "main.3cc8fa62.js.map": "/Portfolio/static/js/main.3cc8fa62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2db1b465.css",
+    "static/js/main.3cc8fa62.js"
+  ]
+}
