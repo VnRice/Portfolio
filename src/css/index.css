@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #FFFFFF;
+  color: #616161;
+  overflow-x: hidden;
+  
+}
+
+/* .wrapper{
+  position: relative;
+  width: 1440px;
+  height: 2898px;
+  margin: auto;
+}
+==
+.text-container .title {
+  position: absolute;
+  left: 228px;
+  right: 228px;
+  top: 388px;
+  bottom: 2189px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 128px;
+  line-height: 155px;
+  text-align: center;
+}
+
+.text-container .about1{
+  position: absolute;
+  left: 887px;
+  right: 411px;
+  top: 1030px;
+  bottom: 1810px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+  color: #76504B;
+}
+
+.text-container .text1{
+  position: absolute;
+  left: 531px;
+  right: 55px;
+  top: 1139px;
+  bottom: 1478px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  color: #000000;
+}
+
+.text-container .projects1{
+  position: absolute;
+left: 301px;
+right: 948px;
+top: 1494px;
+bottom: 1346px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 58px; */
+/* identical to box height */
+
+
+/* color: #76504B;
+}
+.text-container .text2{
+  position: absolute;
+  left: 88px;
+  right: 720px;
+  top: 1605px;
+  bottom: 1197px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  
+  color: #000000;
+}
+.text-container .text3{
+  position: absolute;
+  left: 86px;
+  right: 723px;
+  top: 1741px;
+  bottom: 1061px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+
+  color: #000000;
+}
+.text-container .text4{
+  position: absolute;
+  left: 81px;
+  right: 727px;
+  top: 1871px;
+  bottom: 931px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+
+  color: #000000;
+} */
+
+/* Insert Project 1 Css here */
+/* Insert Gallery 1 JS here */
+
+/* .text-container .gallery1{
+  position: absolute;
+  left: 975px;
+  right: 300px;
+  top: 2181px;
+  bottom: 659px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+
+
+  color: #76504B;
+}
+
+
+.text-container .text5{
+  position: absolute;
+  left: 742px;
+  right: 66px;
+  top: 2288px;
+  bottom: 514px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  
+  color: #000000;
+}  */
